@@ -1,6 +1,7 @@
 #include<stdio.h>
-void main()
+vod main()
 {
     printf("hello world");
-
+/drtdgredgdf/\
+//ewrtdsfgerdgferdgfverdfg
 }
